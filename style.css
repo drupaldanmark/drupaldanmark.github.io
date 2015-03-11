@@ -51,6 +51,7 @@ header p {
     font-size: 22px;
 }
 
+#mission,
 #information {
     text-align: center;
     color: #fff;
@@ -58,6 +59,7 @@ header p {
     padding: 40px 0;
 }
 
+#mission h3,
 #information h3 {
     font-size: 22px;
     margin-bottom: 5px;
