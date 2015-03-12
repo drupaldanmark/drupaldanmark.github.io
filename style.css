@@ -58,6 +58,7 @@ header p {
     margin: 0;
     padding: 15px 0;
     background: hotpink;
+    position: relative;
 }
 
 #introduction h3 {
@@ -98,4 +99,12 @@ footer {
 
 .row + .row {
     margin-top: 30px;
+}
+
+small.hint {
+    font-size: 9px;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    color: #ffa6d2;
 }
