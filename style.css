@@ -59,6 +59,7 @@ header p {
     padding: 15px 0;
     background: hotpink;
     position: relative;
+    display: none;
 }
 
 #introduction h3 {
